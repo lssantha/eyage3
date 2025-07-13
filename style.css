@@ -19,8 +19,8 @@ button {
   font-size: 22px;          /* Larger text */
   cursor: pointer;
   transition: background 0.3s ease;
-  min-width: 220px;         /* Optional: ensures wide button */
-  min-height: 70px;         /* Optional: makes it taller */
+  min-width: 440px;         /* Optional: ensures wide button */
+  min-height: 140px;         /* Optional: makes it taller */
 }
 
 
